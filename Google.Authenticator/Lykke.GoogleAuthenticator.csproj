@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Lykke.GoogleAuthenticator</AssemblyName>
+    <PackageId>Lykke.GoogleAuthenticator</PackageId>
+    <Version>1.0.5</Version>
   </PropertyGroup>
 
 </Project>
