@@ -7,6 +7,7 @@
             UseVerification = false;
             QRCodeWidth = 200;
             QRCodeHeight = 200;
+            AppNamePrefix = null;
         }
 
         public bool UseVerification { get; set; }
@@ -15,5 +16,7 @@
         public int QRCodeWidth { get; set; }
         // ReSharper disable once InconsistentNaming
         public int QRCodeHeight { get; set; }
+
+        public string AppNamePrefix { get; set; }
     }
 }
